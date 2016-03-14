@@ -1,3 +1,6 @@
+/**
+ * CopyRight Haoguang Xu
+ */
 package com.example.qrcode;
 
 import java.util.regex.Matcher;
